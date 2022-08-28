@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/OmBhatt24/Keeper/static/js/main.518245c8.chunk.js",
+    "main.js.map": "/OmBhatt24/Keeper/static/js/main.518245c8.chunk.js.map",
+    "runtime-main.js": "/OmBhatt24/Keeper/static/js/runtime-main.d46e0414.js",
+    "runtime-main.js.map": "/OmBhatt24/Keeper/static/js/runtime-main.d46e0414.js.map",
+    "static/js/2.b2b8c873.chunk.js": "/OmBhatt24/Keeper/static/js/2.b2b8c873.chunk.js",
+    "static/js/2.b2b8c873.chunk.js.map": "/OmBhatt24/Keeper/static/js/2.b2b8c873.chunk.js.map",
+    "index.html": "/OmBhatt24/Keeper/index.html",
+    "precache-manifest.b7c1f03cec55e4ebe6365deb7ac4b63d.js": "/OmBhatt24/Keeper/precache-manifest.b7c1f03cec55e4ebe6365deb7ac4b63d.js",
+    "service-worker.js": "/OmBhatt24/Keeper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d46e0414.js",
+    "static/js/2.b2b8c873.chunk.js",
+    "static/js/main.518245c8.chunk.js"
+  ]
+}
